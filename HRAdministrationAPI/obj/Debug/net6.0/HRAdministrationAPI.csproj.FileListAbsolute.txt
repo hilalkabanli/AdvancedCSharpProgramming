@@ -1,0 +1,11 @@
+C:\Users\hilalk\projects\asp.net\SchoolHRAdministraion\HRAdministrationAPI\bin\Debug\net6.0\HRAdministrationAPI.deps.json
+C:\Users\hilalk\projects\asp.net\SchoolHRAdministraion\HRAdministrationAPI\bin\Debug\net6.0\HRAdministrationAPI.dll
+C:\Users\hilalk\projects\asp.net\SchoolHRAdministraion\HRAdministrationAPI\bin\Debug\net6.0\HRAdministrationAPI.pdb
+C:\Users\hilalk\projects\asp.net\SchoolHRAdministraion\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilalk\projects\asp.net\SchoolHRAdministraion\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.AssemblyInfoInputs.cache
+C:\Users\hilalk\projects\asp.net\SchoolHRAdministraion\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.AssemblyInfo.cs
+C:\Users\hilalk\projects\asp.net\SchoolHRAdministraion\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.csproj.CoreCompileInputs.cache
+C:\Users\hilalk\projects\asp.net\SchoolHRAdministraion\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.dll
+C:\Users\hilalk\projects\asp.net\SchoolHRAdministraion\HRAdministrationAPI\obj\Debug\net6.0\refint\HRAdministrationAPI.dll
+C:\Users\hilalk\projects\asp.net\SchoolHRAdministraion\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.pdb
+C:\Users\hilalk\projects\asp.net\SchoolHRAdministraion\HRAdministrationAPI\obj\Debug\net6.0\ref\HRAdministrationAPI.dll
